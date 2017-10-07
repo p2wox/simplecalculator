@@ -1,5 +1,5 @@
 #include <iostream>
-#include "calculate.cpp"
+#include "calculate.h"
 
 int main(void) {
 
